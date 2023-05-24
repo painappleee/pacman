@@ -1,0 +1,9 @@
+C:\Users\Ананас\OneDrive\Рабочий стол\политех\прога\Pac-man\Pac-man\x64\Debug\Pac-man.vcxproj.AssemblyReference.cache
+C:\Users\Ананас\OneDrive\Рабочий стол\политех\прога\Pac-man\Pac-man\x64\Debug\Pac-man.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Ананас\OneDrive\Рабочий стол\политех\прога\Pac-man\Pac-man\x64\Debug\Pac-man.vcxproj.GenerateResource.cache
+C:\Users\Ананас\OneDrive\Рабочий стол\политех\прога\Pac-man\Pac-man\x64\Debug\Pacman.Spravka.resources
+C:\Users\Ананас\OneDrive\Рабочий стол\политех\прога\Pac-man\Pac-man\x64\Debug\Pacman.Settings.resources
+C:\Users\Ананас\OneDrive\Рабочий стол\политех\прога\Pac-man\Pac-man\x64\Debug\Pacman.Rating.resources
+C:\Users\Ананас\OneDrive\Рабочий стол\политех\прога\Pac-man\Pac-man\x64\Debug\Pacman.MainMenu.resources
+C:\Users\Ананас\OneDrive\Рабочий стол\политех\прога\Pac-man\Pac-man\x64\Debug\Pacman.Game.resources
+C:\Users\Ананас\OneDrive\Рабочий стол\политех\прога\Pac-man\Pac-man\x64\Debug\Pacman.Splash.resources
